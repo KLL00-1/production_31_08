@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9b69488.css",
+    "main.js": "/static/js/main.9fbafd51.js",
+    "static/js/787.4e410afb.chunk.js": "/static/js/787.4e410afb.chunk.js",
+    "static/media/Scene.png": "/static/media/Scene.179c6d336f6e00d4f2de.png",
+    "static/media/Doctor.png": "/static/media/Doctor.1b4889e5a3d3e016cb40.png",
+    "static/media/screen-3.png": "/static/media/screen-3.5123db609881fb5a0c42.png",
+    "static/media/Patient_teenager.png": "/static/media/Patient_teenager.d17c6a0a0cb36ae04ff1.png",
+    "static/media/screen-5.png": "/static/media/screen-5.8eb24d0f7216e4f3668c.png",
+    "static/media/screen-4.png": "/static/media/screen-4.0a366795a5d09419b0f8.png",
+    "static/media/screen-1.png": "/static/media/screen-1.417418a9fc84f98161e8.png",
+    "static/media/screen-6.png": "/static/media/screen-6.e552efd189f617af409a.png",
+    "static/media/screen-2.png": "/static/media/screen-2.c494752159168d32701a.png",
+    "index.html": "/index.html",
+    "main.c9b69488.css.map": "/static/css/main.c9b69488.css.map",
+    "main.9fbafd51.js.map": "/static/js/main.9fbafd51.js.map",
+    "787.4e410afb.chunk.js.map": "/static/js/787.4e410afb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b69488.css",
+    "static/js/main.9fbafd51.js"
+  ]
+}
